@@ -7,6 +7,7 @@ public class sample1 {
 		System.out.println("sample1");
 		System.out.println("added by client");
 		System.out.println("hello client");
+		System.out.println("hello client");
 	}
 
 }
